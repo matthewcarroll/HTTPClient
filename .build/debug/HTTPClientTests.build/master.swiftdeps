@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "fbfcf06d1d07174e2dc8ad8bedee12bf"
+build_time: [533857577, 214103000]
+inputs:
+  "/Users/mjc/ios/SwiftPM2/HTTPClient/Tests/HTTPClientTests/HTTPClientTests.swift": !dirty [533857497, 0]

@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClientTests.build/master.swiftdeps"
+  },
+  "/Users/mjc/ios/SwiftPM2/HTTPClient/Tests/HTTPClientTests/HTTPClientTests.swift": {
+    "dependencies": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClientTests.build/HTTPClientTests.d",
+    "object": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClientTests.build/HTTPClientTests.swift.o",
+    "swiftmodule": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClientTests.build/HTTPClientTests~partial.swiftmodule",
+    "swift-dependencies": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClientTests.build/HTTPClientTests.swiftdeps"
+  }
+}

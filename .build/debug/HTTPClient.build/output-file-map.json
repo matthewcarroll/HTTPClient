@@ -1,0 +1,17 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClient.build/master.swiftdeps"
+  },
+  "/Users/mjc/ios/SwiftPM2/HTTPClient/Sources/HTTPClient.swift": {
+    "dependencies": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClient.build/HTTPClient.d",
+    "object": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClient.build/HTTPClient.swift.o",
+    "swiftmodule": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClient.build/HTTPClient~partial.swiftmodule",
+    "swift-dependencies": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClient.build/HTTPClient.swiftdeps"
+  },
+  "/Users/mjc/ios/SwiftPM2/HTTPClient/Sources/RemoteResource.swift": {
+    "dependencies": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClient.build/RemoteResource.d",
+    "object": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClient.build/RemoteResource.swift.o",
+    "swiftmodule": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClient.build/RemoteResource~partial.swiftmodule",
+    "swift-dependencies": "/Users/mjc/ios/SwiftPM2/HTTPClient/.build/debug/HTTPClient.build/RemoteResource.swiftdeps"
+  }
+}

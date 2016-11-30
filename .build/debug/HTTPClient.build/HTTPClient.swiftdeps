@@ -1,0 +1,96 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "HTTPClient"
+provides-nominal:
+- "C10HTTPClient10HTTPClient"
+provides-member:
+- ["C10HTTPClient10HTTPClient", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "URLSession"
+- "HTTPClient"
+- "Resource"
+depends-member:
+- !private ["Ps9AnyObject", "URLSession"]
+- !private ["Ps9AnyObject", "dataTask"]
+- !private ["Ps9AnyObject", "resume"]
+- !private ["Ps9AnyObject", "shared"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps7CVarArg", "dataTask"]
+- !private ["Ps7CVarArg", "resume"]
+- !private ["Ps7CVarArg", "shared"]
+- !private ["Ps28CustomDebugStringConvertible", "dataTask"]
+- !private ["Ps28CustomDebugStringConvertible", "flatMap"]
+- !private ["Ps28CustomDebugStringConvertible", "resume"]
+- !private ["Ps28CustomDebugStringConvertible", "shared"]
+- !private ["Ps17CustomReflectable", "flatMap"]
+- !private ["Ps23CustomStringConvertible", "dataTask"]
+- !private ["Ps23CustomStringConvertible", "resume"]
+- !private ["Ps23CustomStringConvertible", "shared"]
+- !private ["Ps9Equatable", "dataTask"]
+- !private ["Ps9Equatable", "resume"]
+- !private ["Ps9Equatable", "shared"]
+- !private ["Ps23ExpressibleByNilLiteral", "flatMap"]
+- ["C10HTTPClient10HTTPClient", "Resource"]
+- !private ["C10HTTPClient10HTTPClient", "URLSession"]
+- ["C10HTTPClient10HTTPClient", "deinit"]
+- ["C10HTTPClient10HTTPClient", "init"]
+- ["C10HTTPClient10HTTPClient", "load"]
+- !private ["Ps8Hashable", "dataTask"]
+- !private ["Ps8Hashable", "resume"]
+- !private ["Ps8Hashable", "shared"]
+- !private ["PSo9NSCopying", "resume"]
+- !private ["CSo8NSObject", "dataTask"]
+- !private ["CSo8NSObject", "resume"]
+- !private ["CSo8NSObject", "shared"]
+- !private ["PSo16NSObjectProtocol", "dataTask"]
+- !private ["PSo16NSObjectProtocol", "resume"]
+- !private ["PSo16NSObjectProtocol", "shared"]
+- !private ["Sq", "deinit"]
+- !private ["Sq", "flatMap"]
+- ["V10HTTPClient8Resource", "deinit"]
+- !private ["V10HTTPClient8Resource", "parse"]
+- !private ["V10HTTPClient8Resource", "url"]
+- ["V10Foundation3URL", "deinit"]
+- !private ["CSo10URLSession", "dataTask"]
+- ["CSo10URLSession", "deinit"]
+- !private ["CSo10URLSession", "shared"]
+- ["CSo18URLSessionDataTask", "deinit"]
+- !private ["CSo18URLSessionDataTask", "resume"]
+- !private ["CSo14URLSessionTask", "resume"]
+- !private ["Ps9_Hashable", "dataTask"]
+- !private ["Ps9_Hashable", "resume"]
+- !private ["Ps9_Hashable", "shared"]
+- !private ["Ps21_ObjectiveCBridgeable", "flatMap"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Ps7CVarArg"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- !private "Ps9Equatable"
+- !private "Ps23ExpressibleByNilLiteral"
+- "C10HTTPClient10HTTPClient"
+- !private "Ps8Hashable"
+- !private "PSo9NSCopying"
+- !private "CSo8NSObject"
+- !private "PSo16NSObjectProtocol"
+- !private "Sq"
+- "V10HTTPClient8Resource"
+- "V10Foundation3URL"
+- "CSo10URLSession"
+- "CSo18URLSessionDataTask"
+- !private "CSo14URLSessionTask"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+interface-hash: "6a10b22e9c9e7ffa1450aff808714fc5"

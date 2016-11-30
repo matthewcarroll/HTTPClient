@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.1 (swiftlang-800.0.58.6 clang-800.0.42.1)"
+options: "0cf42458cc54c5001c45e8a75208e9ff"
+build_time: [533857570, 148485000]
+inputs:
+  "/Users/mjc/ios/SwiftPM2/HTTPClient/Sources/HTTPClient.swift": [533857553, 0]
+  "/Users/mjc/ios/SwiftPM2/HTTPClient/Sources/RemoteResource.swift": [533857553, 0]
